@@ -5,11 +5,11 @@ Estamos num ano eleitoral e eu decidi elencar os candidatos a prefeito da minha 
 ## Metodo.
 Apesar de ser uma pessoa parcial, e com favoritos claros, eu vou tentar ser o mais analitico possivel, a analise vai ser com base alguns criterios.
 Cada candidato terá suas propostas divididas entre 4 (5 na verdade) categorias 
-- Beneficia o povo trabalhador. 
-- Beneficia o comercio.
-- Beneficia o mercado imobiliario.
-- Beneficia a categoria politica.
-A quinta categoria, é que a proposta é irrelevante, sem sentido, desconexa, ou impossivel. 
+- Beneficia o povo trabalhador. (em vermelho)
+- Beneficia o comercio. (em azul) 
+- Beneficia o mercado imobiliario. (em Verde) 
+- Beneficia a categoria politica. (em amarelo) 
+A quinta categoria, é que a proposta é irrelevante, Não beneficia nenhum grupo em especifico ou em particular, sem sentido, desconexa, ou impossivel. (deixada em branco)
 E uma vez elencados os materiais, Estarei postando tanto os dados crus, como os PDFs editados com cada categoria em destaque, como os PDFs sem edição para verificar que não houve adultetação.
 
 ## a parte
